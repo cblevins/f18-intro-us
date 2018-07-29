@@ -35,7 +35,7 @@ officehours: "By Appointment"
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
