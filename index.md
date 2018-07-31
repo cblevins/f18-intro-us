@@ -16,6 +16,3 @@ Northeastern University, {{site.semester}}<br>
 ## Course Description
 
 ## Learning Goals
-
-**Changing Perspectives**: <br>
-baa
