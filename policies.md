@@ -1,27 +1,31 @@
 ---
-layout: default
+layout: page
 title: Policies
-permalink: /policies/
-order: 2
 --- 
-
-## Policies
-
-**Assessment**
-
-Assessment will be tailored to fit each student's needs. At the beginning of the semester, you will work with me to define: a) your individual learning goals for the course, and b) your strategy for how to achieve those goals. During the semester I will be giving you qualitative feedback on how you're progressing towards those goals in terms of assignments, activities, and contributions to the class. You will have opportunities to change paths during the course of the semester depending on how your interests develop. Finally, at the end of the semester you will be evaluating and reflecting on your work during the semester. Different students will have different learning goals and pathways towards those goals. Although I will be giving you a final grade, I will not be using standardized criteria for determining that grade. In short, I don't want you to ask "What do I need to do to get a good grade?" and instead ask "What do I want to get out of this class and how will I accomplish that?"
 
 **Office Hours**
 
-My office is located in Meserve Hall Room 237, with weekly office hours on Tuesdays from 1:00-2:30PM. Given the variability of student schedules, I will not be holding weekly office hours at a set time. Please email me to set up a time to meet that works for both of us.
+Office hours are held every _____, and by appointment. Take advantage of office hours as an opportunity to talk about any aspect of the class: the week’s reading, ideas and strategies for your upcoming assignment, feedback you have received, or difficult themes and concepts. If weekly office hours conflict with your schedule, please contact me to schedule a different time to meet. I look forward to getting to know each of you! My office is located in Room 237 in [Meserve Hall](https://www.google.com/maps/place/Meserve+Hall/@42.3378125,-71.0931276,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a22217737a9:0x8ba53f8873603d10!8m2!3d42.3378086!4d-71.0909389). 
 
-**Computers**
+**Attendance**
 
-Given that this is a digital humanities course, we will be using a variety of software and applications both inside and outside of the classroom. Please bring a laptop to class - if you do not have access to one, look into borrowing one from the library's [different options](https://www.northeastern.edu/its/services/tech-support/classrooms/equipment-checkout/) or contact me to make alternative arrangements.
+Attendance at each class is mandatory. Two unexcused absences are allowed per semester, after which any absences will require documentation or else they will impact your final grade. All absences (excused and unexcused) must be made-up with a 500-word response to the day or week’s readings that selects two of the major themes to analyze/critique/elaborate on, due within one week of the absence. Being on time is also part of attendance – if you show up late to class more than once, I will begin deducting points from your participation grade.
 
-**Slack Workspace**
+**Classroom Behavior**
 
-As we decided during our second week, we will be using a Slack workspace: <https://sp18-space-place.slack.com/> for announcements, communications, discussion questions, readings, etc.
+You are required to be respectful to your fellow classmates and professor: listening attentively, not interrupting, and maintaining a civil discourse. Bullying or personal attacks will not be tolerated. Learn names and always assume the best intentions in each other. If you have any issues, please talk to me directly so that I can address them. You are also welcome to eat food or drinks in class, provided they are not distracting. 
+
+**Technology**
+
+You are welcome to bring a laptop or tablet to take notes during class, but please put away your mobile phones during the entirety of the class. I will keep close track of how actively you are engaging and listening to your peers. If I find anyone looking at material that is unrelated to the discussion at hand, you will be asked to leave the classroom and it will count as an unexcused absence. If you are making more eye contact with your screen than your classmates, your participation grade will also suffer.
+
+**Late Assignments**
+
+Late assignments will be penalized by one half letter grade for each day they are late, starting immediately after the specified time (an A paper becomes an A-, an A- to B+, etc.).
+
+**Course Content Note**
+
+This course will involve historical topics that you may find emotionally distressful, including episodes of violence and racism. I have included these topics because they are foundational to understanding the history of the western United States. If you have concerns about reading and discussing particular topics, please come talk to me at the beginning of the semester. I will work with you to find alternative readings or ways for you to participate on the days in which we discuss those particular topics.
 
 **Students with Disabilities**
 
@@ -29,4 +33,4 @@ Students with documented learning disabilities will receive reasonable accommoda
 
 **Academic Integrity**
 
-All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution. For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.
+All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution, For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.

@@ -1,0 +1,10 @@
+# Sample site navigation bar links
+
+- title: About This Course
+  url: /
+- title: Schedule
+  url: /schedule/
+- title: Assignments
+  url: /assignments/
+- title: Policies
+  url: /policies/
