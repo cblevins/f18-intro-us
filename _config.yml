@@ -21,7 +21,7 @@ baseurl: "/f18-intro-us" # the subpath of your site, e.g. /blog
 url: "https://cblevins.github.io" # the base hostname & protocol for your site
 #twitter_username: historying
 #github_username:  cblevins
-university: Northeastern University
+university: "Northeastern University"
 course_number: "HIST 1130"
 semester: "Fall 2018"
 room: "Snell Engineering Center, Room 108"
@@ -36,7 +36,8 @@ copyright: "[Cameron Blevins](http://cameronblevins.org)<br>
 Northeastern University<br>
 Fall 2018<br><br>
 Made with Jekyll using the [So Simple](https://github.com/mmistakes/so-simple-theme/) theme."
-#copyright: "[Cameron Blevins](http://cameronblevins.org), Northeastern University, Fall 2018"
+
+logo: "/images/36-star-flag-small-crop.png"
 
 # Build settings
 markdown: kramdown
