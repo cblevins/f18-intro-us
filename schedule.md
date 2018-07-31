@@ -57,7 +57,7 @@ title: Schedule
 
 10/18
 
-**Week 9**
+**Week 8**
 
 10/22
 
@@ -65,7 +65,7 @@ title: Schedule
 
 10/25
 
-**Week 10**
+**Week 9**
 
 10/29
 
@@ -73,7 +73,7 @@ title: Schedule
 
 11/1
 
-**Week 11**
+**Week 10**
 
 11/5
 
@@ -81,7 +81,7 @@ title: Schedule
 
 11/8
 
-**Week 12**
+**Week 11**
 
 ~~11/12: No Class - Veteran’s Day~~
 
@@ -89,7 +89,7 @@ title: Schedule
 
 11/15
 
-**Week 13**
+**Week 12**
 
 11/19
 
@@ -97,7 +97,7 @@ title: Schedule
 
 ~~11/22: No Class, Thanksgiving~~ 
 
-**Week 14**
+**Week 13**
 
 11/26
 
@@ -105,7 +105,7 @@ title: Schedule
 
 11/29
 
-**Week 15**
+**Week 14**
 
 12/3
 
