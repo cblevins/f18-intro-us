@@ -18,11 +18,11 @@ title: Schedule
 - Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009) - [Available on YouTube](https://www.youtube.com/watch?v=YNZBpn9asng)
 
 **W. 9/12: Facing East | Sources and Evidence**
-- Complete Primary Source Worksheet for: "Father Jean de Brébeuf on the Customs and Beliefs of the Hurons" (1635)
+- Complete [Primary Source Worksheet]({{site.baseurl}}/downloads/primary-source-worksheet-basic.pdf) for: ["Father Jean de Brébeuf on the Customs and Beliefs of the Hurons"](https://www.dropbox.com/s/fds82wgs49xqk7k/DeBrebeuf_CustomsAndBeliefsOfTheHurons_1635.pdf?dl=0) (1635). 
 - Research and take notes on your assigned federally-recognized tribe
 
 **Th. 9/13: Changing the Narrative | Interpretations**
-- Andrés Reséndez, *The Other Slavery: The Uncovered Story of Indian Enslavement in America*, Introduction and Chapter 7
+- Andrés Reséndez, *The Other Slavery: The Uncovered Story of Indian Enslavement in America*, [Introduction and Chapter 7](https://www.dropbox.com/s/yk2xalxr1ry0tty/Resendez_TheOtherSlavery_Intro_Ch7.pdf?dl=0)
 
 ### Topic 2: From Colony to Nation
 
@@ -37,7 +37,7 @@ title: Schedule
 *Citizenship Portfolio Part I (City Meeting) due on Wednesday, September 19th*
 
 **Th. 9/20: The Constitution**
-- *American Yawp*, Chapter 6: A New Nation (Parts I, II, III, IV)
+- *American Yawp*, [Chapter 6: A New Nation](http://www.americanyawp.com/text/06-a-new-nation/) (Parts I, II, III, IV)
 - Jill Lepore, ["The History Test: How should the courts use history?"](https://www.newyorker.com/magazine/2017/03/27/weaponizing-the-past) *The New Yorker*, 27 March 2017. [[PDF version](https://www.dropbox.com/s/rzzwjuitlcr85le/Lepore_The%20History%20Test%20%7C%20The%20New%20Yorker.pdf?dl=0)]
 
 ### Topic 3: Slavery and Freedom
