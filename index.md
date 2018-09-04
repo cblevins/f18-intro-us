@@ -25,15 +25,15 @@ What does it mean to be an American? How has the idea of the United States and t
 
 ## Student Learning Outcomes
 
-What will you learn by the end of the semester? This can be broken into two categories, *Knowledge* and *Skills*.
-
-### Knowledge
-
-- **Major Themes**: Become familiar with some of the key issues and topics in U.S. history and their significance for understanding both the past and present.
-- **Citizenship**: Develop your own definition of what it means to be an “American” and how that idea has changed over time. 
+What will you learn by the end of the semester? This can be broken into two categories, *Skills* and *Knowledge*.
 
 ### Skills
 
 - **Evidence**: Put historical documents, materials, and other sources “on the witness stand” and interrogate them as potential evidence for understanding the past.
 - **Interpretation**: Assemble evidence into interpretations, stories, or narratives about the past, taking into account things like causation, continuity and context.
 - **Empathy**: Develop the ability to see the world from the perspective of other people in both the past and present.
+
+### Knowledge
+
+- **Major Themes**: Become familiar with some of the key issues and topics in U.S. history and their significance for understanding both the past and present.
+- **Citizenship**: Develop your own definition of what it means to be an “American” and how that idea has changed over time. 

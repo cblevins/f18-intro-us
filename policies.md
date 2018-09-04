@@ -9,7 +9,7 @@ Office hours are held each Monday and Thursday from 10:30-11:30AM. Take advantag
 
 **Attendance and Absences**
 
-Attendance at each class is mandatory. When you arrive at class, please check in with your assigned TA who will mark your attendance. Two absences are allowed per semester, after which additional absences will impact your participation grade. Being on time is also part of attendance – if you are late to class more than once, your will lose points from your participation grade. If you are facing health and wellness, financial, or other issues, I encourage you to contact me directly and to reach out to We Care (<https://studentlife.northeastern.edu/we-care/>). 
+Attendance at each class is mandatory. When you arrive at class, please check in with your assigned TA who will mark your attendance. **Two absences** are allowed per semester, after which additional absences will impact your participation grade. Being on time is also part of attendance – if you are **late to class more than once**, your will lose points from your participation grade. If you are facing health and wellness, financial, or other issues, I encourage you to contact me directly and to reach out to We Care (<https://studentlife.northeastern.edu/we-care/>). 
 
 **Classroom Behavior**
 
@@ -34,11 +34,11 @@ Your ability to learn is often shaped by external factors outside of the classro
 **Reasonable Accommodation**
 
 Students with documented learning disabilities will receive reasonable accommodation in this class. If you have a learning disability, please notify me and also register with [Northeastern’s Disability Resource Center](http://www.northeastern.edu/drc/) at 20 Dodge Hall or call 617-373-4428.
-
-**Academic Integrity**
-
-All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution, For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.
  
 **Title IX**
 
 Northeastern’s Title IX Policy prohibits discrimination based on gender, which includes sexual harassment, sexual assault, relationship or domestic violence, and stalking (for more information, see the website for the Office for University Equity and Compliance (<https://www.northeastern.edu/ouec/>). The Title IX Policy applies to the entire community, including male, female, transgender students, and faculty and staff. If you or someone you know has been harassed or assaulted,confidential support and guidance can be found through University Health and Counseling Services staff (<http://www.northeastern.edu/uhcs/>) and the Center for Spiritual Dialogue and Service clergy members (<http://www.northeastern.edu/spirituallife/>). By law, those employees are not required to report allegations of sex or gender-based discrimination to the University. Alleged violations can be reported non-confidentially to the Title IX Coordinator within The Office for Gender Equity and Compliance at: titleix@northeastern.edu and/or through NUPD (Emergency 617.373.3333; Non-Emergency 617.373.2121). Reporting Prohibited Offenses to NUPD does NOT commit the victim/affected party to future legal action.
+
+**Academic Integrity**
+
+All students are responsible for understanding and complying with Northeastern University’s policy on Academic Integrity. Cheating or plagiarism of any kind will not be tolerated and will be immediately referred to the Office of Student Council and Conflict Resolution, For more details, see <http://www.northeastern.edu/osccr/academic-integrity-policy/>.
