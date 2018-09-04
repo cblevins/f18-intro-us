@@ -15,7 +15,7 @@ title: Schedule
 ### Topic 1: The "First" Americans?
 
 **M. 9/10: Pilgrims and Indians | Stories and Myths**
-- Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009) [Available on YouTube](https://www.youtube.com/watch?v=YNZBpn9asng)
+- Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009) - [Available on YouTube](https://www.youtube.com/watch?v=YNZBpn9asng)
 
 **W. 9/12: Facing East | Sources and Evidence**
 - Complete Primary Source Worksheet for: "Father Jean de Brébeuf on the Customs and Beliefs of the Hurons" (1635)
@@ -37,7 +37,8 @@ title: Schedule
 *Citizenship Portfolio Part I (City Meeting) due on Wednesday, September 19th*
 
 **Th. 9/20: The Constitution**
-- TBD
+- *American Yawp*, Chapter 6: A New Nation (Parts I, II, III, IV)
+- Jill Lepore, ["The History Test: How should the courts use history?"](https://www.newyorker.com/magazine/2017/03/27/weaponizing-the-past) *The New Yorker*, 27 March 2017. [[PDF version](https://www.dropbox.com/s/rzzwjuitlcr85le/Lepore_The%20History%20Test%20%7C%20The%20New%20Yorker.pdf?dl=0)]
 
 ### Topic 3: Slavery and Freedom
 
