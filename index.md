@@ -10,7 +10,9 @@ Professor Cameron Blevins (c.blevins@northeastern.edu)<br>
 Northeastern University, {{site.semester}}<br>
 {{ site.room }}<br>
 {{site.meetingtime}}<br>
-Teaching Assistants: Cassandra Cloutier and William Whitworth 
+Teaching Assistants:<br>
+Cassandra Cloutier (cloutier.c@husky.neu.edu)<br>
+William Whitworth (whitworth.w@husky.neu.edu)<br>
 </p>
 </div>
 
