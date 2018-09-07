@@ -7,12 +7,12 @@ title:
 <p>
 {{ site.course_number }}: {{ site.title }}<br>
 Professor Cameron Blevins (c.blevins@northeastern.edu)<br>
-Northeastern University, {{site.semester}}<br>
 {{ site.room }}<br>
 {{site.meetingtime}}<br>
+Office Hours: Meserve Hall 237, Mon/Thurs 10:30-11:30<br>
 Teaching Assistants:<br>
 Cassandra Cloutier (cloutier.c@husky.neu.edu)<br>
-William Whitworth (whitworth.w@husky.neu.edu)<br>
+William Whitworth (whitworth.w@husky.neu.edu)
 </p>
 </div>
 
@@ -38,4 +38,4 @@ What will you learn by the end of the semester? This can be broken into two cate
 ### Knowledge
 
 - **Major Themes**: Become familiar with some of the key issues and topics in U.S. history and their significance for understanding both the past and present.
-- **Citizenship**: Develop your own definition of what it means to be an “American” and how that idea has changed over time. 
+- **Citizenship**: Develop your own definition of what it means to be an “American” and how that idea has changed over time.

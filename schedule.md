@@ -60,12 +60,12 @@ title: Schedule
 ### Topic 4: The Civil War and Reconstruction
 
 **M. 10/1: Crisis**
-- *American Yawp*, Chapter 13: Sectional Crisis (Part III, IV, V)
+- *American Yawp*, [Chapter 13: Sectional Crisis](http://www.americanyawp.com/text/13-the-sectional-crisis) (Part III, IV, V)
 - The Lincoln-Douglass Debates (1858) (selections)
 - South Carolina Ordinance of Secession (1860) (selections)
 
 **W. 10/3: War**
-- *American Yawp*, Chapter 14: The Civil War (Part III, IV)
+- *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
 - Listen to [Episode 5: The Spin](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 
 **Th. 10/4: Reconstruction**
@@ -76,7 +76,7 @@ title: Schedule
 ~~**M. 10/8:  No Class - Official Holiday**~~
 
 **W. 10/10: Corporate America**
-- *American Yawp*, Chapter 16: Capital and Labor (Part I, II, III)
+- *American Yawp*, [Chapter 16: Capital and Labor](http://www.americanyawp.com/text/16-capital-and-labor) (Part I, II, III)
 - Horatio Alger Jr., *Ragged Dick* (1867) (selections)
 - Elizabeth Kolbert, ["Gospels of Giving for the New Gilded Age"](https://www.newyorker.com/magazine/2018/08/27/gospels-of-giving-for-the-new-gilded-age) *The New Yorker* 27 August 2018. [[PDF version](https://www.dropbox.com/s/r3mqdvzcgj456wq/Kolbert_Gospels%20of%20Giving%20for%20the%20New%20Gilded%20Age%20%7C%20The%20New%20Yorker.pdf?dl=0)]
 
@@ -91,20 +91,21 @@ title: Schedule
 - Thomas Bell, *Out of This Furnace* (1941), [Part One & Two](https://www.dropbox.com/s/17civ56sdcifrv5/Bell_OutOfThisFurnace_Part1_Part2.pdf?dl=0)
 
 **Th. 10/18: The Melting Pot II**
-- *American Yawp*, Chapter 20: The Progressive Era, ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
+- *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
 - Ida B. Wells-Barnett, ["Lynch Law in America"](http://etc.usf.edu/lit2go/pdf/passage/4375/civil-rights-and-conflict-in-the-united-states-selected-speeches-003-speech-on-lynch-law-in-america-given-by-ida-b-wells-in-chicago-illinois-january-1900.pdf) (1900) 
 - Margaret Sanger on "Free Motherhood" (1920)
 
 ### Topic 6: War and Empire
 
 **M. 10/22: Colonialism**
-- *American Yawp*, Chapter 19: American Empire (Part I, II, III, IV)
+- *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part I, II, III, IV)
 
 **W. 10/24: World War II**
+- *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/25-the-cold-war) (Part I, IV, IV)
 - Watch Frank Capra, "War Comes to America" (1945), part of *Why We Fight* film series.
 
 **Th. 10/25: The Cold War**
-- *American Yawp*, Chapter 25: The Cold War (Part I, II, III, IV)
+- *American Yawp*, [Chapter 25: The Cold War](http://www.americanyawp.com/text/25-the-cold-war) (Part I, II, III, IV)
 
 *Citizenship Portfolio Part III (Voting Worksheet) due Sunday, October 28th*
 
@@ -149,7 +150,7 @@ title: Schedule
 - ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
 
 **Th. 11/29: The New Jim Crow**
-- Watch Ava DuVernay, *13th* (2016) documentary. Note: there will be a film screening the evening of Wednesday, November 28th.
+- Watch Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741). Note: there will be a film screening the evening of Wednesday, November 28th.
 
 ### Topic 9: America Today
 
