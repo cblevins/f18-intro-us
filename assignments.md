@@ -11,11 +11,11 @@ Your participation grade will also include a number of short quizzes that will b
 
 ### Citizenship Portfolio (15%)
 
-One of the major themes of this course is American citizenship and the relationship between the past and the present. As part of this theme, you will going through a Citizenship Portfolio in which you go on *three experiences* outside of the classroom that are related to citizenship today and then submit reflections on those experiences. 
+One of the major themes of this course is American citizenship and the relationship between the past and the present. As part of this theme, you will going through a Citizenship Portfolio in which you go on *three experiences* outside of the classroom that are related to citizenship today and then submit written reflections on those experiences. 
 
-1. Attend a municipal government meeting or hearing held by the city of Boston. *Due on Wednesday, September 19th.* (5%)
-2. Attend an immigration detainee hearing. *Due on Sunday, October 14th.* (5%)
-3. Complete a voting worksheet during the lead-up to the mid-term elections. *Due on Friday, October 26th.* (5%)
+1. Attend a municipal government meeting or hearing held by the city of Boston. *Due on Wednesday, Sep. 19th.* (5%)
+2. Attend an immigration detainee hearing. *Due on Sunday, Oct. 14th.* (5%)
+3. Complete a voting worksheet during the lead-up to the mid-term elections. *Due on Sunday, Oct. 28th.* (5%)
 
 Please note that these assignments *cannot* be completed at the last minute and are subject to outside schedules that are beyond your own control. They will require you to plan ahead several days or even weeks to figure out when you can complete them. [Full description of the assignment]({{site.baseurl}}/citizenship-portfolio).
 
