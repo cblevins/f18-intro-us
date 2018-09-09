@@ -20,6 +20,8 @@ Remember:
 - Arrive at least 10-15 minutes early and if you need to leave before it ends, try to sit near the back and wait until a natural break or lull to exit.
 - If anyone asks, tell them that you are attending the meeting as an observing member of the public and are there for a class assignment.
 
+Submit Part 1 as a Word document in the following format: "Lastname_CitizenshipPortfolio_Part1.docx" (ex. "Blevins_CitizenshipPortfolio_Part1.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/4ZW3IbU1ieaN9FUAp245).
+
 *Deadline: Wednesday, September 19th by 5:00PM.*
 
 ### Part II. Attend an immigration detainee hearing (5%)
@@ -37,12 +39,16 @@ Remember:
 - You do not need to attend the entirety of the morning or afternoon session of an immigration detainee hearing, but you should stay for at least one hour in order to observe hearings for multiple detainees. 
 - Sit in the back row of the courtroom and wait until a break beween detainee hearings to either enter or exit. 
 
+Submit Part 2 as a Word document in the following format: "Lastname_CitizenshipPortfolio_Part2.docx" (ex. "Blevins_CitizenshipPortfolio_Part2.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/hKk2CRBULW45oUkcsRWb).
+
 *Deadline: Sunday, October 14th by 5:00PM.*
 
 ### Part III. Voting Worksheet (5%)
 
 On November 6th, 2018, the American voters will go to the polls for a mid-term election. Representative democracy is the bedrock of the United States political system, and some argue that voting is a civic duty for all Americans. But what does voting actually look like? Who is eligible to vote? How do you register to vote? What are the local candidates and issues in your district? To answer these, you will be filling out a Voting Worksheet. A hard copy will be distributed in class and you can [download an electronic version here]({{site.baseurl}}/downloads/voting-worksheet.docx).
 
-**Note: you need to plan far ahead to complete this assignment!** For those of you who are eligible to vote, some states require you to register up to one month before the election. Check your home state: https://www.vote.org/voter-registration-deadlines/.
+**Note: you need to plan far ahead to complete this assignment!** For those of you who are eligible to vote, some states require you to register up to one month before the election. Check your home state: <https://www.vote.org/voter-registration-deadlines/>.
+
+Submit Part 3 as a Word document in the following format: "Lastname_CitizenshipPortfolio_Part3.docx" (ex. "Blevins_CitizenshipPortfolio_Part3.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/UkH1Z0VvOiYXa2Q4bUMk).
 
 *Deadline: Sunday, October 28th by 5:00PM.* 
