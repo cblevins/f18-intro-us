@@ -23,7 +23,7 @@ Please note that these assignments *cannot* be completed at the last minute and 
 
 You will be writing a modified version of the *New York Times*'s Weekend Briefing [see recent example](https://nyti.ms/2MQnTuw) from the perspective of one newspaper during one week from 1860. What was happening during that week? What were the different issues, topics, events, and stories that this paper was covering? [Full description of the assignment]({{site.baseurl}}/weekend-briefing).
 
-*Due on Sunday, November 30th.*
+*Due on Sunday, September 30th.*
 
 ### Reacting to the Past: Chicago, 1968 (25%)
 
