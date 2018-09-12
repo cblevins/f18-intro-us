@@ -19,7 +19,7 @@ title: Schedule
 
 **W. 9/12: Facing East | Sources and Evidence**
 - Complete [Primary Source Worksheet]({{site.baseurl}}/downloads/primary-source-worksheet-basic.pdf) for: ["Father Jean de Brébeuf on the Customs and Beliefs of the Hurons"](https://www.dropbox.com/s/fds82wgs49xqk7k/DeBrebeuf_CustomsAndBeliefsOfTheHurons_1635.pdf?dl=0) (1635). 
-- [Research and take notes on your assigned federally-recognized tribe](({{site.baseurl}}/downloads/federally-recognized-tribe-research.pdf)
+- [Research and take notes on your assigned federally-recognized tribe]({{site.baseurl}}/downloads/federally-recognized-tribe-research.pdf)
 
 **Th. 9/13: Changing the Narrative | Interpretations**
 - Andrés Reséndez, *The Other Slavery: The Uncovered Story of Indian Enslavement in America*, [Introduction and Chapter 7](https://www.dropbox.com/s/yk2xalxr1ry0tty/Resendez_TheOtherSlavery_Intro_Ch7.pdf?dl=0)
