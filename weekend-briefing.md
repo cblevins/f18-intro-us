@@ -21,7 +21,7 @@ At the end of the briefing, you will write a 500-word big-picture summary of the
 
 Submit your Weekend Briefing as a Word document in the following format: "Lastname_WeekendBriefing.docx" (ex. "Blevins_WeekendBriefing.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/HGE9UAg6bLkCaFWt6fA6).
 
-*Deadline: Sunday, September 28th by 5:00PM.* 
+*Deadline: Sunday, September 30th by 5:00PM.* 
 
 #### What you will learn from this assignment:
 - **Empathy**. What was American life like in the year 1860? You will immerse yourself in another time and place and see the world from that perspective. 

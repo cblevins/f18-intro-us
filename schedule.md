@@ -32,7 +32,7 @@ title: Schedule
 
 **W. 9/19: The Revolution**
 - *American Yawp*, 	Chapter 5: The American Revolution ([Part III](http://www.americanyawp.com/text/05-the-american-revolution/#III_The_Causes_of_the_American_Revolution), [Part IV](http://www.americanyawp.com/text/05-the-american-revolution/#IV_Independence)).
-- Abigail Adams and John Adams on Women and the American Revolution (1776)
+- [Abigail Adams and John Adams on Women and the American Revolution (1776)](https://www.dropbox.com/s/nkvnu4aw7khvkw9/AbigailAndJohnAdams_1776.pdf?dl=0)
 
 *Citizenship Portfolio Part I (City Meeting) due on Wednesday, September 19th*
 
