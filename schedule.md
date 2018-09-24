@@ -48,7 +48,7 @@ title: Schedule
 **W. 9/26: Slave Society**
 - *American Yawp*, Chapter 11: The Cotton Revolution ([Part V](http://www.americanyawp.com/text/11-the-cotton-revolution/#VSouthern_Cultures))
 - De Bow's Review, ["Slavery and the Bible" (1850) (excerpts)](https://www.dropbox.com/s/fjpbaj6ci7w85ts/SlaveryAndTheBible_1850.pdf?dl=0)
-- Solomon Northup, [*Twelve Years a Slave* (1853) (excerpts)]((https://www.dropbox.com/s/7ruqc5sb1q3o5qz/SolomonNorthup_1853.pdf?dl=0))
+- Solomon Northup, [*Twelve Years a Slave* (1853) (excerpts)]((https://www.dropbox.com/s/7ruqc5sb1q3o5qz/SolomonNorthup_1853.pdf?dl=0)
 - George Fitzhugh, [*Sociology for the South, or the Failure of Free Society* (excerpts)](http://www.americanyawp.com/reader/the-cotton-revolution/george-fitzhugh-argues-that-slavery-is-better-than-liberty-and-equality-1854/)
 
 **Th. 9/27: Abolitionism and Protest**
