@@ -54,6 +54,7 @@ title: Schedule
 **Th. 9/27: Abolitionism and Protest**
 - Frederick Douglass, [“What to the Slave is the Fourth of July?” (1852) (selections)](https://www.dropbox.com/s/dv5tiauwxif9o32/Douglass_WhatToTheSlaveIsTheFourthOfJuly_Excerpts.pdf?dl=0)
 - David Brooks, ["The Uses of Patriotism"](https://www.nytimes.com/2016/09/16/opinion/the-uses-of-patriotism.html) (2016) [PDF version](https://www.dropbox.com/s/cvfheekctutdbcc/Brooks_The%20Uses%20of%20Patriotism.pdf?dl=0)
+- Come to class with **TWO** news items you are thinking about including in your Weekend Briefing
 
 *Weekend Briefing due on Sunday, 9/30*
 
