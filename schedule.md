@@ -62,8 +62,8 @@ title: Schedule
 
 **M. 10/1: Crisis**
 - *American Yawp*, [Chapter 13: Sectional Crisis](http://www.americanyawp.com/text/13-the-sectional-crisis) (Part III, IV, V)
-- The Lincoln-Douglass Debates (1858) (selections)
-- South Carolina Ordinance of Secession (1860) (selections)
+- [The Lincoln-Douglass Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
+- [Mississippi Ordinance of Secession (1861) (selections)](https://www.dropbox.com/s/lgmv9f4uxnp4vcl/MississippiOrdinanceOfSecession_1861.pdf?dl=0)
 
 **W. 10/3: War**
 - *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
