@@ -19,7 +19,7 @@ You will then write a short summary (“briefing”) for each item that gives th
 
 At the end of the briefing, you will write a 500-word big-picture summary of the newspaper itself. What kind of paper was it? What inferences can you make about its readers and their interests? Once again, this will require you to do some background research on the paper and the place where it was published. 
 
-Submit your Weekend Briefing as a Word document in the following format: "Lastname_WeekendBriefing.docx" (ex. "Blevins_WeekendBriefing.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/HGE9UAg6bLkCaFWt6fA6).
+**Submit your Weekend Briefing as a Word document in the following format: "Lastname_WeekendBriefing.docx" (ex. "Blevins_WeekendBriefing.docx") and upload it to [this Dropbox folder](https://www.dropbox.com/request/HGE9UAg6bLkCaFWt6fA6).**
 
 *Deadline: Sunday, September 30th by 5:00PM.* 
 
@@ -50,3 +50,13 @@ Sources:
 - “John Brown’s Raid on Harper’s Ferry,” *Wikipedia*, <https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry>. Accessed August 30, 2018. 
 - "Execution of Stevens and Hazlett” *New York Times*, March 20, 1860 <https://www.nytimes.com/1860/03/20/archives/execution-of-stevens-and-hazlett-particulars-of-the-last-scene.html>. Accessed August 30, 2018. 
 - "Chapter 12: Death and Burial” from *“His Soul Goes Marching On”: The Life and Legacy of John Brown, West Virginia Archives and History Online Exhibit.* <http://www.wvculture.org/history/jbexhibit/jbchapter12.html>. Accessed August 30, 2018. 
+
+#### How to create a newspaper "clipping":
+
+Find your news item on the newspaper's page and zoom in as best you can so that you can read and see it. Then click the scissors icon in the upper right.
+
+![weekend-briefing]({{site.baseurl}}/images/weekend-briefing-screenshot1.png)
+
+Copy the URL from the page that this brings you to and paste it into your weekend briefing, as shown above.
+
+![weekend-briefing]({{site.baseurl}}/images/weekend-briefing-screenshot2.png)
