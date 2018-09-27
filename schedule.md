@@ -81,7 +81,7 @@ title: Schedule
 - Horatio Alger Jr., *Ragged Dick* (1867) (selections)
 - Elizabeth Kolbert, ["Gospels of Giving for the New Gilded Age"](https://www.newyorker.com/magazine/2018/08/27/gospels-of-giving-for-the-new-gilded-age) *The New Yorker* 27 August 2018. [[PDF version](https://www.dropbox.com/s/r3mqdvzcgj456wq/Kolbert_Gospels%20of%20Giving%20for%20the%20New%20Gilded%20Age%20%7C%20The%20New%20Yorker.pdf?dl=0)]
 
-**Th. 10/11: TBD**
+~~**Th. 10/11: No Class: Cancelled**~~
 
 *Citizenship Portfolio Part II (Detainee Hearing) due on Sunday, October 14th*
 
