@@ -55,7 +55,7 @@ Submit Part 2 as a Word document in the following format: "Lastname_CitizenshipP
 
 ### Part III. Voting Worksheet (5%)
 
-On November 6th, 2018, the American voters will go to the polls for a mid-term election. Representative democracy is the bedrock of the United States political system, and some argue that voting is a civic duty for all Americans. But what does voting actually look like? Who is eligible to vote? How do you register to vote? What are the local candidates and issues in your district? To answer these, you will be filling out a Voting Worksheet. A hard copy will be distributed in class and you can [download an electronic version here]({{site.baseurl}}/downloads/voting-worksheet.docx).
+On November 6th, 2018, the American voters will go to the polls for a mid-term election. Representative democracy is the bedrock of the United States political system, and some argue that voting is a civic duty for all Americans. But what does voting actually look like? Who is eligible to vote? How do you register to vote? What are the local candidates and issues in your district? To answer these, you will be filling out a [Voting Worksheet that you can download here]({{site.baseurl}}/downloads/voting-worksheet.docx).
 
 **Note: you need to plan far ahead to complete this assignment!** For those of you who are eligible to vote, some states require you to register up to one month before the election. Check your home state: <https://www.vote.org/voter-registration-deadlines/>.
 
