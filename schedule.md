@@ -94,7 +94,7 @@ title: Schedule
 **Th. 10/18: The Melting Pot II**
 - *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
 - Ida B. Wells-Barnett, ["Lynch Law in America"](http://etc.usf.edu/lit2go/pdf/passage/4375/civil-rights-and-conflict-in-the-united-states-selected-speeches-003-speech-on-lynch-law-in-america-given-by-ida-b-wells-in-chicago-illinois-january-1900.pdf) (1900) 
-- Margaret Sanger on "Free Motherhood" (1920)
+- [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
 
 ### Topic 6: War and Empire
 
