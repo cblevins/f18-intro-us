@@ -86,13 +86,13 @@ title: Schedule
 *Citizenship Portfolio Part II (Detainee Hearing) due on Sunday, October 14th*
 
 **M. 10/15: "Build the Wall"**
-- Listen to first 14:30 of [“Border Patrols: Policing Immigration in America”](http://backstoryradio.org/shows/border-patrols), *BackStory* podcast, March 9, 2017.
+- ~~Listen to first 14:30 of [“Border Patrols: Policing Immigration in America”](http://backstoryradio.org/shows/border-patrols), *BackStory* podcast, March 9, 2017.~~
 
 **W. 10/17: The Melting Pot I**
 - Thomas Bell, *Out of This Furnace* (1941), [Part One & Two](https://www.dropbox.com/s/17civ56sdcifrv5/Bell_OutOfThisFurnace_Part1_Part2.pdf?dl=0)
 
 **Th. 10/18: The Melting Pot II**
-- *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
+- ~~*American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))~~
 - Ida B. Wells-Barnett, ["Lynch Law in America"](http://etc.usf.edu/lit2go/pdf/passage/4375/civil-rights-and-conflict-in-the-united-states-selected-speeches-003-speech-on-lynch-law-in-america-given-by-ida-b-wells-in-chicago-illinois-january-1900.pdf) (1900) 
 - [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
 
