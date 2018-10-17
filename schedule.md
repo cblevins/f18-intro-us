@@ -99,7 +99,8 @@ title: Schedule
 ### Topic 6: War and Empire
 
 **M. 10/22: Colonialism**
-- *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part I, II, III, IV)
+- *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part III: 1898)
+- Primary Source Packet on Spanish-American and Philippine-American Wars
 
 **W. 10/24: World War II**
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/25-the-cold-war) (Part I, IV, IV)
