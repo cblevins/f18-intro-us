@@ -103,11 +103,11 @@ title: Schedule
 - Primary Source Packet on Spanish-American and Philippine-American Wars
 
 **W. 10/24: World War II**
-- *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/25-the-cold-war) (Part I, IV, IV)
-- Watch Frank Capra, "War Comes to America" (1945), part of *Why We Fight* film series.
+- *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
+- Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](http://ezproxy.neu.edu/login?url=https://search.alexanderstreet.com/view/work/bibliographic_entity|video_work|3604796) (1945), part of *Why We Fight* film series.
 
 **Th. 10/25: The Cold War**
-- *American Yawp*, [Chapter 25: The Cold War](http://www.americanyawp.com/text/25-the-cold-war) (Part I, II, III, IV)
+- Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) **Crash Course World History #39**, October 18, 2012. Length: 12:15.
 
 *Citizenship Portfolio Part III (Voting Worksheet) due Sunday, October 28th*
 
