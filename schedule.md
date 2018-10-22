@@ -106,7 +106,7 @@ title: Schedule
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
 - Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series. 
 
-**Th. 10/25: The Cold War**
+**Th. 10/25: The Cold War** [*Guest lecture from Cassandra Cloutier*]
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
 
 *Citizenship Portfolio Part III (Voting Worksheet) due Sunday, October 28th*
@@ -152,7 +152,7 @@ title: Schedule
 - ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
 
 **Th. 11/29: The New Jim Crow**
-- Watch Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741). Note: there will be a film screening the evening of Wednesday, November 28th.
+- Watch Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741). *Note: there will be a film screening the evening of Wednesday, November 28th from 7:00-9:00pm in Shillman 105.*
 
 ### Topic 9: America Today
 
