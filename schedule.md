@@ -113,10 +113,10 @@ title: Schedule
 
 ### Topic 7: Elections and Politics
 
-**M. 10/29: The Rise of the Right**
-- TBD
+**M. 10/29: Mid-Term Elections**
+- Research  your assigned 20th-century mid-term election and come to class with notes.
 
-**W. 10/31: Mid-Term Elections**
+**W. 10/31: The Rise of the Right**
 - TBD
 
 ### Reacting to the Past: Chicago, 1968
