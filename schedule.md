@@ -117,12 +117,11 @@ title: Schedule
 - Research  your assigned 20th-century mid-term election and come to class with notes.
 
 **W. 10/31: The Rise of the Right**
-- TBD
+- Read your Role Sheet and Gamebook for Reacting to the Past: Chicago, 1968
 
 ### Reacting to the Past: Chicago, 1968
 
 **Th. 11/1: Set-Up Session**
-- Read Gamebook and Role sheet
 
 **M. 11/5: Game Session 1**
 
