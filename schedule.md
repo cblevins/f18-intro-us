@@ -147,6 +147,7 @@ title: Schedule
 **M. 11/26: The Long Civil Rights Movement**
 - Martin Luther King Jr speaks at the Holt Street Church in Montgomery, Alabama (December 5 1955) [Transcript of King speaking from pp. 71-74](http://okra.stanford.edu/transcription/document_images/Vol03Scans/71_5-Dec-1955_MIA%20Mass%20Meeting.pdf)
 - Malcolm X speech, ["The Ballot or the Bullet”](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf) (1964). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
+- Come to class with **two ideas** for your unessay final project.
 
 **W. 11/28: Women’s Rights**
 - ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
@@ -162,4 +163,4 @@ title: Schedule
 
 **W. 12/5: The Trump Era**
 
-*Unessay due on Sunday, December 9th*
+*Unessay due on Wednesday, December 12th by 5PM*
