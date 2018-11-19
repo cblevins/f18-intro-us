@@ -151,6 +151,7 @@ title: Schedule
 
 **W. 11/28: Women’s Rights**
 - ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
+- Email a one-paragraph description of your unessay idea to your TA/Professor. 
 
 **Th. 11/29: The New Jim Crow**
 - Watch Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741). *Note: there will be a film screening the evening of Wednesday, November 28th from 7:00-9:00pm in Shillman 105.*
