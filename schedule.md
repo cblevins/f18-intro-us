@@ -149,7 +149,7 @@ title: Schedule
 - Malcolm X speech, ["The Ballot or the Bullet”](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf) (1964). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
 - Come to class with **two ideas** for your unessay final project.
 
-**W. 11/28: Women’s Rights**
+**W. 11/28: Women’s Rights** [*Guest lecture from William Whitworth*]
 - ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
 - Email a one-paragraph description of your unessay idea to your TA (cc Professor Blevins on the email).
 
