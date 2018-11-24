@@ -150,7 +150,7 @@ title: Schedule
 - Come to class with **two ideas** for your unessay final project.
 
 **W. 11/28: Women’s Rights** [*Guest lecture from William Whitworth*]
-- ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast (November 23, 2017).
+- Julia Longoria, ["Sex Appeal"](https://www.wnycstudios.org/story/sex-appeal/) episode of *More Perfect* podcast, WNYC Studios (November 23, 2017).
 - Email a one-paragraph description of your unessay idea to your TA (cc Professor Blevins on the email).
 
 **Th. 11/29: The New Jim Crow**
@@ -160,7 +160,6 @@ title: Schedule
 
 **M. 12/3: The Arc of History**
 - Nikole Hannah-Jones, ["Segregation Now: The Resegregation of American Schools"](https://www.propublica.org/article/segregation-now-the-resegregation-of-americas-schools) *Pro Publica* (2014). Note: make sure that you read all three parts. If the interactive version is not working, here is [the full version in plain text](https://www.propublica.org/article/segregation-now-full-text).
-- Layli Long Soldier, [“38"](https://onbeing.org/blog/layli-long-soldier-38/) (poem from Soldier's collection *WHEREAS*)
 
 **W. 12/5: The Trump Era**
 
