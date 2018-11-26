@@ -154,7 +154,7 @@ title: Schedule
 - Email a one-paragraph description of your unessay idea to your TA (cc Professor Blevins on the email).
 
 **Th. 11/29: The New Jim Crow**
-- Watch first 50 minutes of Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741) and come to class having completed the accompanying worksheet. *Note: there will be a film screening the evening of Wednesday, November 28th from 7:00-8:00pm in Shillman 105.*
+- Watch first 50 minutes of Ava DuVernay, *13th* (2016). [Netflix documentary](https://www.netflix.com/watch/80091741) and come to class having completed [the accompanying worksheet]({{site.baseurl}}/downloads/13th-worksheet.docx). *Note: there will be a film screening the evening of Wednesday, November 28th from 7:00-8:00pm in Shillman 105.*
 
 ### Topic 9: America Today
 
