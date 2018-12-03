@@ -37,6 +37,6 @@ Regardless of the format, the major requirement is that you must present *a hist
 
 Examples of student unessays completed in other U.S. History courses: <https://twitter.com/ccjones13/status/987404629401993216>, <https://twitter.com/ccjones13/status/940329059073982464>.
 
-Submit your unessay either in person or electronically at the filing link: <https://www.dropbox.com/request/pNCHFMavuMZOqnFnciQG>
+Submit your unessay either in person or electronically at the following link: <https://www.dropbox.com/request/pNCHFMavuMZOqnFnciQG>
 
 *Due on Wednesday, December 12th by 5PM*
